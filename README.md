@@ -8,8 +8,8 @@
 
 #### Guide to uninstall 
 
-    1. $sudo /usr/local/bin/uninstall_gdrive_dl
-
+    $/usr/local/bin/uninstall_gdrive_dl.sh
+    
 #### Usage
     
     $gdrive_dl <file_id> <file_name>
