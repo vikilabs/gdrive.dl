@@ -6,7 +6,7 @@
     3. $chmod 777 ./install.sh
     4. $./install.sh
 
-#### Guid to uninstall 
+#### Guide to uninstall 
 
     1. $sudo /usr/local/bin/uninstall_gdrive_dl
 
@@ -16,7 +16,8 @@
     
     $gdrive_dl 1LmY-hgYBPbhLk0aovxd2c33IHF1KY_nZ  sample.jpeg 
 
-#### Platform supported
+#### Platforms supported
+
     1. Mac OS
     2. Linux
 
