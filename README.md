@@ -1,10 +1,10 @@
-### Google Drive File Downloader CLI 
+### Google Drive: File Downloader CLI 
 
 #### Installation guide
     1. cd ~/
-    2. $git clone
+    2. $git clone https://github.com/vikilabs/gdrive_dl.git
     3. $chmod 777 ./install.sh
-    4. $sudo ./install.sh
+    4. $./install.sh
 
 #### Guid to uninstall 
 
